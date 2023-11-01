@@ -114,7 +114,7 @@ This lab builds on the Azure Databricks DataFrames concepts learned in the previ
 1. In the **Import Notebooks** dialog box, select the URL and paste in the following URL:
 
  ```
-  https://github.com/solliancenet/microsoft-learning-paths-databricks-notebooks/blob/master/data-engineering/DBC/07-Dataframe-Advanced-Methods.dbc?raw=true
+  https://github.com/krish1711/DataBricks/blob/main/Notebooks/Dataframe-Advanced-Methods.dbc
  ```
 
 1. Select **Import**.
@@ -133,7 +133,7 @@ After you've completed the notebook, return to this screen, and continue to the 
 
 ### Exercise 2: Complete the Use Aggregate Functions notebook
 
-In your Azure Databricks workspace, open the **07-Dataframe-Advanced-Methods** folder that you imported within your user folder.
+In your Azure Databricks workspace, open the **Dataframe-Advanced-Methods** folder that you imported within your user folder.
 
 Open the **2.Use-Aggregate-Functions** notebook. Make sure you attach your cluster to the notebook before following the instructions and running the cells within.
 
@@ -143,7 +143,7 @@ After you've completed the notebook, return to this screen, and continue to the 
 
 ### Exercise 3: Complete the De-Duping Data exercise notebook
 
-In your Azure Databricks workspace, open the **07-Dataframe-Advanced-Methods** folder that you imported within your user folder.
+In your Azure Databricks workspace, open the **Dataframe-Advanced-Methods** folder that you imported within your user folder.
 
 Open the **3.Exercise-Deduplication-of-Data** notebook. Make sure you attach your cluster to the notebook before following the instructions and running the cells within.
 
