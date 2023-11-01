@@ -1,4 +1,4 @@
-# Module 15 - Create a stream processing solution with Event Hubs and Azure Databricks
+Create a stream processing solution with Event Hubs and Azure Databricks
 
 In this module, students will learn how to ingest and process streaming data at scale with Event Hubs and Spark Structured Streaming in Azure Databricks. The student will learn the key features and uses of Structured Streaming. The student will implement sliding windows to aggregate over chunks of data and apply watermarking to remove stale data. Finally, the student will connect to Event Hubs to read and write streams.
 
@@ -9,22 +9,6 @@ In this module, the student will be able to:
 - Use sliding windows to aggregate over chunks of data rather than all data
 - Apply watermarking to remove stale data
 - Connect to Event Hubs read and write streams
-
-## Lab details
-
-- [Module 15 - Create a stream processing solution with Event Hubs and Azure Databricks](#module-15---create-a-stream-processing-solution-with-event-hubs-and-azure-databricks)
-  - [Lab details](#lab-details)
-  - [Concepts](#concepts)
-  - [Event Hubs and Spark Structured Streaming](#event-hubs-and-spark-structured-streaming)
-  - [Streaming concepts](#streaming-concepts)
-  - [Lab](#lab)
-    - [Before the hands-on lab](#before-the-hands-on-lab)
-      - [Task 1: Create and configure the Azure Databricks workspace](#task-1-create-and-configure-the-azure-databricks-workspace)
-    - [Exercise 1: Complete the Structured Streaming Concepts notebook](#exercise-1-complete-the-structured-streaming-concepts-notebook)
-      - [Task 1: Clone the Databricks archive](#task-1-clone-the-databricks-archive)
-      - [Task 2: Complete the notebook](#task-2-complete-the-notebook)
-    - [Exercise 2: Complete the Working with Time Windows notebook](#exercise-2-complete-the-working-with-time-windows-notebook)
-    - [Exercise 3: Complete the Structured Streaming with Azure EventHubs notebook](#exercise-3-complete-the-structured-streaming-with-azure-eventhubs-notebook)
 
 ## Concepts
 
@@ -57,10 +41,6 @@ You need to complete the exercises within Databricks Notebooks. To begin, you ne
 
 Before stepping through the exercises in this lab, make sure you have access to an Azure Databricks workspace with an available cluster. Perform the tasks below to configure the workspace.
 
-#### Task 1: Create and configure the Azure Databricks workspace
-
-Follow the [lab 15 setup instructions](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/15/lab-01-setup.md) to create and configure the workspace.
-
 ### Exercise 1: Complete the Structured Streaming Concepts notebook
 
 #### Task 1: Clone the Databricks archive
@@ -68,8 +48,6 @@ Follow the [lab 15 setup instructions](https://github.com/solliancenet/microsoft
 1. If you do not currently have your Azure Databricks workspace open: in the Azure portal, navigate to your deployed Azure Databricks workspace and select **Launch Workspace**.
 1. In the left pane, select **Workspace** > **Users**, and select your username (the entry with the house icon).
 1. In the pane that appears, select the arrow next to your name, and select **Import**.
-
-    ![The menu option to import the archive](media/import-archive.png)
 
 1. In the **Import Notebooks** dialog box, select the URL and paste in the following URL:
 
