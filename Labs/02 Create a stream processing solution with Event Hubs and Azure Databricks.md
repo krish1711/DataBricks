@@ -41,6 +41,8 @@ You need to complete the exercises within Databricks Notebooks. To begin, you ne
 
 Before stepping through the exercises in this lab, make sure you have access to an Azure Databricks workspace with an available cluster. Perform the tasks below to configure the workspace.
 
+Follow these instructions to create Azure Event Hub service - https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create 
+
 ### Exercise 1: Complete the Structured Streaming Concepts notebook
 
 #### Task 1: Clone the Databricks archive
