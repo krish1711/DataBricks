@@ -32,7 +32,7 @@ Before stepping through the exercises in this lab, make sure you have access to 
 1. In the **Import Notebooks** dialog box, select the URL and paste in the following URL:
 
  ```
-[https://github.com/krish1711/DataBricks/blob/main/Notebooks/Working-With-Dataframes.dbc]
+https://github.com/krish1711/DataBricks/blob/main/Notebooks/Working-With-Dataframes.dbc
  ```
 
 1. Select **Import**.
