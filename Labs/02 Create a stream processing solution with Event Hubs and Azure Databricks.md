@@ -39,7 +39,7 @@ You need to complete the exercises within Databricks Notebooks. To begin, you ne
 
 > **Note:** Only complete the `Before the hands-on lab` steps if you are **not** using a hosted lab environment, and are instead using your own Azure subscription. Otherwise, skip ahead to Exercise 1.
 
-Before stepping through the exercises in this lab, make sure you have access to an Azure Databricks workspace with an available cluster. Perform the tasks below to configure the workspace.
+Before stepping through the exercises in this lab, make sure you have access to an Azure Databricks workspace with an available cluster. You will also need Azure Event hub Service.
 
 Follow these instructions to create Azure Event Hub service - https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create 
 
