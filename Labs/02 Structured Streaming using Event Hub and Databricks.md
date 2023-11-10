@@ -14,10 +14,14 @@ The scenario is as below:
 ```
 https://github.com/krish1711/DataBricks.git
 ```
+* Install the following SDK in the Spakr cluster under Maven menu.
+```
+com.microsoft.azure:azure-eventhubs-spark_2.11:2.3.17
+```
 * Import the notebook into your Databricks from the below-given link and run it to create the stream.
  ```
 https://raw.githubusercontent.com/krish1711/DataBricks/main/Notebooks/Structured%20Streaming%20using%20Event%20Hub%20with%20Databricks.ipynb
  ```
-* Run the cell (the one before stopping the stream) to visualise how the portfolio valuation is updated
+* Run the cell (the one before stopping the stream) to visualize how the portfolio valuation is updated
 
 * Follow the rest of the instructions in the Notebook.
