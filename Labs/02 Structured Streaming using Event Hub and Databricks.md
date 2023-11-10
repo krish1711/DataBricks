@@ -16,7 +16,7 @@ https://github.com/krish1711/DataBricks.git
 ```
 * Install the following SDK in the Spakr cluster under Maven menu.
 ```
-com.microsoft.azure:azure-eventhubs-spark_2.11:2.3.17
+com.microsoft.azure:azure-eventhubs-spark_2.12:2.3.18
 ```
 * Import the notebook into your Databricks from the below-given link and run it to create the stream.
  ```
